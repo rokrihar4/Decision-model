@@ -1,9 +1,0 @@
-ime,znamka,arhitektura,platforma,podnozje,jedra,niti,osnovna_frekvenca_ghz,turbo_frekvenca_ghz,tdp_w,relativni_fps_relativno,relativna_produktivnost_relativno,ucinkovitost_na_watt,podpora_ddr,podpora_pcie,ima_igpu,cenovni_razred,potrben_boljsi_hladilnik,kompatibilen_z_msi_z790_gaming_pro_wifi,mozgna_pot_nadgradnje,opombe
-AMD Ryzen 5 7600,AMD,Zen 4,AM5,AM5,6,12,3.8,5.1,65,85,80,zelo_dobra,DDR5,PCIe 5.0,Da,nizek,neobvezno,Ne,AM5 podpira prihodnje generacije,"Odlična vrednost za denar, zelo učinkovit gaming CPU"
-AMD Ryzen 7 7700,AMD,Zen 4,AM5,AM5,8,16,3.8,5.3,65,88,90,zelo_dobra,DDR5,PCIe 5.0,Da,srednji,da,Ne,Dolga podpora AM5,"Več jeder za delo, še vedno zelo hiter v igrah"
-AMD Ryzen 5 9600X,AMD,Zen 5,AM5,AM5,6,12,3.9,5.4,65,92,85,odlicna,DDR5,PCIe 5.0,Da,srednji,da,Ne,AM5 nova arhitektura,"Višji IPC, zelo učinkovit CPU nove generacije"
-Intel Core i5-14600K,Intel,Raptor Lake Refresh,LGA1700,LGA1700,14,20,3.5,5.3,125,93,88,povprecna,DDR4 ali DDR5,PCIe 5.0 (GPU) + 4.0 (SSD),Da,srednji,da,Da,Zadnja generacija za LGA1700,"Zelo zmogljiv za igre, večja poraba"
-Intel Core i7-13700K,Intel,Raptor Lake,LGA1700,LGA1700,16,24,3.4,5.4,125,95,95,povprecna,DDR4 ali DDR5,PCIe 5.0 (GPU) + 4.0 (SSD),Da,visok,da,Da,Omejena prihodnost platforme,Močan all-round CPU za gaming in delo
-Intel Core i7-14700K,Intel,Raptor Lake Refresh,LGA1700,LGA1700,20,28,3.4,5.6,125,97,98,pod_povprecjem,DDR4 ali DDR5,PCIe 5.0 (GPU) + 4.0 (SSD),Da,visok,da,Da,Zadnji high-end na LGA1700,Odličen kompromis med i7 in i9
-Intel Core i9-13900K,Intel,Raptor Lake,LGA1700,LGA1700,24,32,3.0,5.8,125,99,100,slaba,DDR4 ali DDR5,PCIe 5.0 (GPU) + 4.0 (SSD),Da,zelo_visok,da,Da,Maximum za to platformo,"Ogromna moč, a tudi toplota in poraba"
-Intel Core i9-14900KF,Intel,Raptor Lake Refresh,LGA1700,LGA1700,24,32,3.2,6.0,125,100,101,slaba,DDR4 ali DDR5,PCIe 5.0 (GPU) + 4.0 (SSD),Ne,zelo_visok,da,Da,Zadnji in najmočnejši na LGA1700,"Brez iGPU, ekstremna poraba in temperature"

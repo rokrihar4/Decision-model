@@ -1,0 +1,10 @@
+﻿ime,podnozje,cena_skupaj,enostavnost_nakupa,tdp_w,igre_fps_score,produktivnost_score,ucinkovitost_na_watt,ima_igpu,potrben_boljsi_hladilnik,kompatibilen_z_matično_ploščo
+AMD Ryzen 7 7700X,AM5,400,Da,105,52.0,44.4,zelo_dobra,Da,Da,Ne
+AMD Ryzen 7 7800X3D,AM5,490,Ne,120,100.0,60.2,odlicna,Da,Da,Ne
+AMD Ryzen 9 7900,AM5,470,Ne,65,70.9,68.3,odlicna,Da,Neobvezno,Ne
+AMD Ryzen 9 7900X,AM5,480,Da,170,68.9,90.2,pod_povprecjem,Da,Da,Ne
+Intel Core i5-14600K,LGA1700,215,Da,125,68.1,75.6,povprecna,Da,Da,Da
+Intel Core i7-13700K,LGA1700,332,Da,125,61.9,82.9,povprecna,Da,Da,Da
+Intel Core i7-14700KF,LGA1700,320,Da,125,71.4,90.2,pod_povprecjem,Ne,Da,Da
+Intel Core i9-13900K,LGA1700,485,Ne,125,73.2,95.1,slaba,Da,Da,Da
+Intel Core i9-14900KF,LGA1700,431,Da,125,77.6,100.0,slaba,Ne,Da,Da
